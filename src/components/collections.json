@@ -93,7 +93,7 @@
           "dfed4457d760457abec1c0dccdc44381"
         ],
         "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:19:29.666Z",
         "modifiedAt": "2024-07-23T21:09:04.428Z",
         "modifiedBy": {
@@ -104,19 +104,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "OT-Dh_gdNR",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-07-23T21:09:04.057Z",
-            "modifiedAt": "2024-07-23T21:09:04.057Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -216,10 +204,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": "2023-06-08T13:06:57.252Z",
@@ -241,10 +229,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Large teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 1,
         "stagedVersionCount": 1,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:12:34.113Z",
         "stagedAt": "2023-06-08T13:06:24.758Z",
@@ -280,7 +268,7 @@
         "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": "2023-06-08T14:31:06.461Z",
@@ -302,10 +290,10 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Two product teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 3,
         "stagedVersionCount": 3,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 4,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
         "stagedAt": "2023-06-08T14:27:31.972Z",
@@ -344,7 +332,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-03T12:33:41.827Z",
         "modifiedAt": "2024-07-23T21:08:34.362Z",
         "modifiedBy": {
@@ -355,19 +343,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-07-23T21:08:33.908Z",
-            "modifiedAt": "2024-07-23T21:08:33.908Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -394,7 +370,7 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
         "modifiedAt": "2024-07-23T21:05:30.191Z",
         "modifiedBy": {
@@ -405,19 +381,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-07-23T21:05:29.75Z",
-            "modifiedAt": "2024-07-23T21:05:29.75Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
