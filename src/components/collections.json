@@ -200,6 +200,43 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "kn233guHn5",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Hero",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-07-26T14:45:32.183Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-07-26T14:55:58.393Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "kn233guHn5",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-07-26T14:45:38.6Z",
+            "modifiedAt": "2024-07-26T14:45:38.6Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "MCzUv9T7CV",
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
@@ -343,7 +380,19 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AopQJ8Q0yN",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-07-26T14:45:12.468Z",
+            "modifiedAt": "2024-07-26T14:45:12.468Z"
+          }
+        ]
       }
     ]
   },
@@ -381,7 +430,19 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "TlH-4IjNyG",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-07-26T14:44:49.288Z",
+            "modifiedAt": "2024-07-26T14:44:49.288Z"
+          }
+        ]
       }
     ]
   }

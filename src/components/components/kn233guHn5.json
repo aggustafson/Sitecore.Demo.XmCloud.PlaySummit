@@ -1,0 +1,68 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "3mmKQLQL16",
+    "componentId": "kn233guHn5",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 0,
+    "model": "",
+    "view": "<section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-07-26T14:45:38.932Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-07-26T14:45:48.145Z",
+    "modifiedBy": {
+      "id": "62eab1d8f7252c66e19976a9",
+      "name": "Angela Gustafson",
+      "givenName": "Angela",
+      "familyName": "Gustafson",
+      "email": "angela.gustafson@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "sx2lZMSfMH",
+    "componentId": "kn233guHn5",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 13,
+    "model": "",
+    "view": "<style data-format-version=\"30\"></style><section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-07-26T14:45:42.962Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-07-26T14:55:58.393Z",
+    "modifiedBy": {
+      "id": "62eab1d8f7252c66e19976a9",
+      "name": "Angela Gustafson",
+      "givenName": "Angela",
+      "familyName": "Gustafson",
+      "email": "angela.gustafson@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png"
+    }
+  }
+]
