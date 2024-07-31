@@ -110,8 +110,20 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{DF3499B2-B16E-4AF2-ABBA-65963C4F7842}"
+              uid="{68F1D8D4-98D0-4384-B84E-9774C628B155}"
               p:after="r[@uid='{A31E698E-33F2-402A-A839-DBB403B42B32}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{46738CFF-828D-4DAF-9D9A-8FE200CAC9E0}"
+              p:after="r[@uid='{68F1D8D4-98D0-4384-B84E-9774C628B155}']"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=kn233guHn5&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=t91KSMJDC3_AQPQ&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{DF3499B2-B16E-4AF2-ABBA-65963C4F7842}"
+              p:after="r[@uid='{46738CFF-828D-4DAF-9D9A-8FE200CAC9E0}']"
               s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
               s:ph="/headless-main/container-4" />
@@ -122,12 +134,12 @@ Languages:
               uid="{9BA2187B-7A45-4AEC-B564-9ED773C42C41}"
               s:par="CacheClearingBehavior=Clear%20on%20publish" />
             <r
-              uid="{3D176DDC-B277-47BC-886D-83C72F882046}"
+              uid="{3F9CBDF1-ABB8-4915-86A8-56F653A87F60}"
               p:after="*[1=2]"
               s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
-              s:ph="/headless-main/container-4/container-7" />
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7B1B4B33CE-E1F3-4AC1-9C50-1810F0E20E1D%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/container-4/container-8" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -141,7 +153,7 @@ Languages:
       Value: Landing Page With Multiple Promos
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "425aa6fb-a5b5-4794-8331-4c75edc0eea1"
+      Value: "0408e375-3c27-465f-be12-de8515dadfe3"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.
