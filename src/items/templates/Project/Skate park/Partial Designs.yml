@@ -1,0 +1,23 @@
+﻿---
+ID: "125bc012-3496-49ce-928f-ab167792a4f5"
+Parent: "5a6b9408-abfb-4161-9d53-d5f2cd342b1b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Skate park/Partial Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_selection.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{79C9FA01-5F6A-48B2-B459-05BBAA826A9D}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{AFF4F841-D74E-4A3A-8E18-60DA6F17CA52}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9df895b5-3aa0-4353-be8e-17eb52d536aa"

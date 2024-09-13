@@ -1,0 +1,13 @@
+﻿---
+ID: "08b03377-08be-4949-8e81-19003b9553ae"
+Parent: "ba1d83e1-2ddd-432a-86b3-0823cf03b1df"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Skate park/Skate park/Sitemaps/Skate park
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f075ead2-0592-48b1-b111-c5ea721aa492"

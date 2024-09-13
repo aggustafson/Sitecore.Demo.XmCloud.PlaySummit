@@ -1,0 +1,17 @@
+﻿---
+ID: "049c5882-12f1-4f68-981b-aa511af08796"
+Parent: "40369d65-da70-4e4d-b306-b0036c3aec33"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Skate park/Skate park/Presentation/Placeholder Settings/Partial Design/Footer
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "493800e4-f5ce-4cfa-8fb5-7b13a542240a"

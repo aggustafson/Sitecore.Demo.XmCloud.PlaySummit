@@ -1,0 +1,21 @@
+﻿---
+ID: "aa18e03f-45fe-4d5a-9671-cc3d1c2bb607"
+Parent: "3f547cb3-33c4-4c70-bf7c-49bb4050afee"
+Template: "857d2bc4-1515-4478-b9e4-f7243747806c"
+Path: /sitecore/content/Skate park/Skate park/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bD787CC8C-946A-4658-A007-BBCAD2BA5F0C%7d%3d%257BAC7AC808-53C8-4253-9A4F-0963B1E3EC61%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5165a20-1c5e-4171-9e5a-80500d785446"
