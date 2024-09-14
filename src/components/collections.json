@@ -208,11 +208,13 @@
         "versionCount": 2,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
-        "datasourceIds": [],
+        "datasourceIds": [
+          "dfed4457d760457abec1c0dccdc44381"
+        ],
         "createdAt": "2024-07-26T14:45:32.183Z",
-        "stagedAt": "2024-07-30T15:14:29.729Z",
-        "publishedAt": "2024-07-30T15:14:29.729Z",
-        "modifiedAt": "2024-07-30T15:14:29.729Z",
+        "stagedAt": "2024-09-13T18:24:14.592Z",
+        "publishedAt": "2024-09-13T18:24:14.592Z",
+        "modifiedAt": "2024-09-13T18:24:14.592Z",
         "modifiedBy": {
           "id": "62eab1d8f7252c66e19976a9",
           "name": "Angela Gustafson",
@@ -221,7 +223,19 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "kn233guHn5",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-13T18:19:41.821Z",
+            "modifiedAt": "2024-09-13T18:19:41.821Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
