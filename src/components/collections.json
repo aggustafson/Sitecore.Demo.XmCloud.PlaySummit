@@ -200,6 +200,43 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "MCzUv9T7CV",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Teaser",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2023-06-08T08:45:02.309Z",
+        "stagedAt": "2023-06-08T13:06:57.252Z",
+        "publishedAt": "2023-06-08T12:50:50.669Z",
+        "modifiedAt": "2024-09-19T14:09:55.403Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "MCzUv9T7CV",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-19T14:09:54.666Z",
+            "modifiedAt": "2024-09-19T14:09:54.666Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "kn233guHn5",
         "collectionId": "EfQDdUxRmd",
         "name": "Hero",
@@ -208,13 +245,11 @@
         "versionCount": 2,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
+        "datasourceIds": [],
         "createdAt": "2024-07-26T14:45:32.183Z",
         "stagedAt": "2024-09-13T18:24:14.592Z",
         "publishedAt": "2024-09-13T18:24:14.592Z",
-        "modifiedAt": "2024-09-13T18:24:14.592Z",
+        "modifiedAt": "2024-09-19T14:09:15.001Z",
         "modifiedBy": {
           "id": "62eab1d8f7252c66e19976a9",
           "name": "Angela Gustafson",
@@ -232,35 +267,47 @@
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-09-13T18:19:41.821Z",
-            "modifiedAt": "2024-09-13T18:19:41.821Z"
+            "createdAt": "2024-09-18T20:56:53.76Z",
+            "modifiedAt": "2024-09-18T20:56:53.76Z"
           }
         ]
       },
       {
         "libraryId": "generated",
-        "id": "MCzUv9T7CV",
+        "id": "68pPpy4Onp",
         "collectionId": "EfQDdUxRmd",
-        "name": "Teaser",
+        "name": "Promo",
         "description": "",
         "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 3,
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
         "datasourceIds": [],
-        "createdAt": "2023-06-08T08:45:02.309Z",
-        "stagedAt": "2023-06-08T13:06:57.252Z",
-        "publishedAt": "2023-06-08T13:06:57.252Z",
-        "modifiedAt": "2023-06-08T13:06:57.252Z",
+        "createdAt": "2024-09-19T14:04:16.568Z",
+        "stagedAt": "2024-09-19T14:06:05.753Z",
+        "publishedAt": "2024-09-19T14:06:05.753Z",
+        "modifiedAt": "2024-09-19T14:06:05.753Z",
         "modifiedBy": {
-          "id": "62f3ba1cba5df761961e5a78",
-          "name": "Sintija Potaicuka",
-          "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka"
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "68pPpy4Onp",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-19T14:04:24.796Z",
+            "modifiedAt": "2024-09-19T14:04:24.796Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
