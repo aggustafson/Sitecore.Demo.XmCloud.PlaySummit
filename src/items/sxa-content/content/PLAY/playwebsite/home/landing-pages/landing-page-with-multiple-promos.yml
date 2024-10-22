@@ -22,7 +22,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BEA768D9-8E28-42D9-976E-819EABE70BB4}" />
+    <image mediaid="{EC03AE1A-C694-4613-A66A-E896EC21F39C}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -147,7 +147,7 @@ Languages:
       Value: Landing Page With Multiple Promos
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "22db6670-e868-4a4c-893a-59dea2772455"
+      Value: "f9b9726f-c76e-4db9-bdcc-512e273ff6ff"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.
