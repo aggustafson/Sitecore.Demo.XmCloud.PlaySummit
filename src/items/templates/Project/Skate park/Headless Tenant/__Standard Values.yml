@@ -1,0 +1,13 @@
+﻿---
+ID: "f1e6e734-aca7-425a-a48a-cab8c74db442"
+Parent: "4989648a-f02f-41ae-a482-9dd972582f77"
+Template: "4989648a-f02f-41ae-a482-9dd972582f77"
+Path: /sitecore/templates/Project/Skate park/Headless Tenant/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21434f7b-6c1c-4722-acff-6780447d1bf7"

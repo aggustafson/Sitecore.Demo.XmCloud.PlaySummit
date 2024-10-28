@@ -1,0 +1,13 @@
+﻿---
+ID: "8b159056-3483-4a57-b684-0c04b9f497d1"
+Parent: "676eac67-8587-4d84-93f0-207aa64e6b05"
+Template: "676eac67-8587-4d84-93f0-207aa64e6b05"
+Path: /sitecore/templates/Project/Skate park/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddfacee6-724e-4829-a083-dd0413568932"

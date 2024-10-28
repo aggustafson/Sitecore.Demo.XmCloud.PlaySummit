@@ -1,0 +1,19 @@
+﻿---
+ID: "30c3735c-8976-4f47-b7b9-7c6830e255c7"
+Parent: "95c321ca-047f-4c88-9ca6-04216719a18e"
+Template: "95c321ca-047f-4c88-9ca6-04216719a18e"
+Path: /sitecore/templates/Project/Skate park/Page Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {95C321CA-047F-4C88-9CA6-04216719A18E}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13bae3a7-9516-49c2-8b38-e2ba2d5f3fd2"

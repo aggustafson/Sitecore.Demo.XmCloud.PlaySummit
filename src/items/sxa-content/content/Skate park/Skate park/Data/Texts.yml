@@ -1,0 +1,13 @@
+﻿---
+ID: "c5a4560d-157f-40fd-b9a4-f9af175c38f4"
+Parent: "12af22ff-5cd5-40c6-885e-a74e944bcd1b"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Skate park/Skate park/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79a2c3c0-dfc6-4bf0-b1d0-6dfd72551a8b"

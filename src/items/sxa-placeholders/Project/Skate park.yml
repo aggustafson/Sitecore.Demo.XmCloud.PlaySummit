@@ -1,0 +1,13 @@
+﻿---
+ID: "200d4a42-262f-4210-8b10-22689d3f7e66"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "3d281bf8-5336-4686-9dd6-ab4ab5b3fd5d"
+Path: /sitecore/layout/Placeholder Settings/Project/Skate park
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e1e427d-71b6-411f-9fec-329703eca278"

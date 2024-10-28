@@ -1,0 +1,19 @@
+﻿---
+ID: "aff4f841-d74e-4a3a-8e18-60da6f17ca52"
+Parent: "125bc012-3496-49ce-928f-ab167792a4f5"
+Template: "125bc012-3496-49ce-928f-ab167792a4f5"
+Path: /sitecore/templates/Project/Skate park/Partial Designs/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C9579D52-1C65-455D-BF21-6210E40D96FE}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84047970-f3e1-423e-b9b0-74bc91ceaf4e"

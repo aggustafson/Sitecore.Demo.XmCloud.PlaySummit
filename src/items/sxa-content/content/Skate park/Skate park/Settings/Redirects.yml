@@ -1,0 +1,18 @@
+﻿---
+ID: "a2adedc3-e95f-4aad-9338-67ecbf434f11"
+Parent: "db45a92e-d227-465c-9804-350470cc042a"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/Skate park/Skate park/Settings/Redirects
+BranchID: "50213d5e-83f8-4fa7-a91d-825e61c7b8a2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DC338247-8B52-4159-8095-88F00E323E2D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e37de4c5-1341-4022-a9e8-b1d8ea767fe9"
