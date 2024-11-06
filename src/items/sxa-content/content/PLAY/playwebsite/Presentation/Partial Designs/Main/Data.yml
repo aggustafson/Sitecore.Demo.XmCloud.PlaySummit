@@ -1,0 +1,13 @@
+﻿---
+ID: "2ebcb292-255a-41a2-8075-6dc916b06a8e"
+Parent: "dec14166-5327-4c62-a637-2f1191f38826"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Main/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9c25196-aa98-4a50-854a-c645e0c599ad"

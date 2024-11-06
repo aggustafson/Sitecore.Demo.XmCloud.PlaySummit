@@ -1,8 +1,8 @@
 ﻿---
-ID: "0c718620-e878-4333-8d79-5905143e3867"
+ID: "912d4b7b-12f4-4d31-b887-5e5303d783a7"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/landing-page-with-multiple-promos"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Page with Test"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -94,7 +94,7 @@ Languages:
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Landing Page With Multiple Promos
+    Value: Page with Test
   Versions:
   - Version: 1
     Fields:
@@ -111,6 +111,45 @@ Languages:
             <r
               uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7BD6A410BB-6608-4B7A-854D-0C4CCA7CFC48%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=5&amp;RenderingIdentifier" />
+            <r
+              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}"
+              s:pt="personalizationTest"
+              s:uid="{A31E698E-33F2-402A-A839-DBB403B42B32}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{A252F4C2-8E3A-4F63-A539-14FF6818C52D}"
+                    s:name="a31e698e33f2402aa839dbb403b42b32_6108ade4f7ab4df3934f6f9002df6e53">
+                    <conditions>
+                      <condition
+                        uid="8C72E40FB91245F182216D0BE9970318"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="a31e698e33f2402aa839dbb403b42b32_6108ade4f7ab4df3934f6f9002df6e53" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{4E522533-8762-4D40-A9CF-3F5A9D97C902}"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="caa0c742-f052-49fb-825b-a03494798db7" />
+                      <action
+                        uid="{F186CF82-F4DE-42FB-8520-F5901A9BAC4D}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="LibraryId=1UqzFeFS6VLN38qYsJQdx&amp;ComponentName=Hero%20component&amp;ComponentLabel=Hero%20component&amp;ComponentId=94f4AbLCsC&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=zD1YiiFyR54cHd1&amp;ComponentHTMLOverride" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="4DB6F2CD9CDF4D8FA2AE23E50E6A9A8E"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{7FD8A9C5-A7A4-4C69-ACB6-CAD76E696252}"
               p:after="r[@uid='{A31E698E-33F2-402A-A839-DBB403B42B32}']"
@@ -142,13 +181,13 @@ Languages:
       Value: Landing Page With Multiple Promos
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Landing Page With Multiple Promos
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb593e59-a6c3-4cdb-8637-a8dc9f90d4f3"
+      Value: "dc2d9edc-cc0e-4769-8e3a-1b6097a495bc"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.

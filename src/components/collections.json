@@ -81,6 +81,45 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "OT-Dh_gdNR",
+        "collectionId": "JYYIXneyeG",
+        "name": "Dynamic Promo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "dfed4457d760457abec1c0dccdc44381"
+        ],
+        "createdAt": "2023-05-29T11:31:03.424Z",
+        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "publishedAt": "2023-08-02T09:19:29.666Z",
+        "modifiedAt": "2024-11-04T22:17:38.545Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "OT-Dh_gdNR",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-11-04T22:17:38.074Z",
+            "modifiedAt": "2024-11-04T22:17:38.074Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "FnbXCgP1cr",
         "collectionId": "JYYIXneyeG",
         "name": "Session Promo",
@@ -159,33 +198,6 @@
           "familyName": "Kostadinova"
         },
         "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "OT-Dh_gdNR",
-        "collectionId": "JYYIXneyeG",
-        "name": "Dynamic Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
-        "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
-        "publishedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
       }
     ]
   },
@@ -198,6 +210,43 @@
     "createdAt": "2023-06-08T08:44:53.843Z",
     "modifiedAt": "2023-06-08T08:44:53.843Z",
     "components": [
+      {
+        "libraryId": "generated",
+        "id": "94f4AbLCsC",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Hero component",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-11-05T16:47:09.238Z",
+        "stagedAt": "2024-11-05T20:47:05.276Z",
+        "publishedAt": "2024-11-05T20:47:05.276Z",
+        "modifiedAt": "2024-11-05T20:48:36.084Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "94f4AbLCsC",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-11-05T16:47:16.788Z",
+            "modifiedAt": "2024-11-05T16:47:16.788Z"
+          }
+        ]
+      },
       {
         "libraryId": "generated",
         "id": "MCzUv9T7CV",

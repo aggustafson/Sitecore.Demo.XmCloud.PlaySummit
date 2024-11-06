@@ -1,8 +1,8 @@
 ﻿---
-ID: "8abe4c8e-dcd8-4a6a-8974-cc12fc659b59"
-Parent: "19275e5f-af62-45ef-a029-9ad53651e927"
+ID: "aa37426c-d2d7-47c3-88bf-edc92930599f"
+Parent: "748d14dd-5b02-41a7-bbbd-8b79b4202387"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
-Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/landing-page-with-multiple-promos/Data/Promo 2"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Page with Test/Data/Promo 2"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
@@ -25,7 +25,7 @@ Languages:
         <div class="ck-content"><p>Discover the freedom of the open road, off-road.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08adedc1-6f11-4a63-91e3-723913c9dc17"
+      Value: "219c682a-6d05-4105-9f29-a498424df143"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
       Value: |
