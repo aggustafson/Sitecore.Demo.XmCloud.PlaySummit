@@ -4,8 +4,8 @@
   "ref": "c068776c-3da1-4601-9078-f68ede65b057",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-11-27T15:44:25.014Z",
-  "revision": 16,
+  "modifiedAt": "2024-12-02T20:35:03.868Z",
+  "revision": 18,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-11-27T15:44:25.032Z",
+    "modifiedAt": "2024-12-02T20:35:03.886Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,7 +84,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "d52548d6-9adf-4d64-9412-9a805da5a1fb",
+      "ref": "ef98ded8-232d-4f7b-b6b2-15a73e4a4b3c",
       "name": "Facebook Campaign",
       "tasks": [
         {
