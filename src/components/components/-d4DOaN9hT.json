@@ -1,0 +1,33 @@
+{
+  "libraryId": "generated",
+  "id": "8jKZQAHuo7",
+  "componentId": "-d4DOaN9hT",
+  "name": "Name",
+  "description": "",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 3,
+  "model": "",
+  "view": "<section class=\"-grid--custom\"></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "isEmbeddable": false,
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2024-12-10T17:31:39.02Z",
+  "deletedAt": null,
+  "modifiedAt": "2024-12-10T18:58:48.955Z",
+  "modifiedBy": {
+    "id": "62eab1d8f7252c66e19976a9",
+    "name": "Angela Gustafson",
+    "givenName": "Angela",
+    "familyName": "Gustafson",
+    "email": "angela.gustafson@sitecore.com",
+    "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png"
+  }
+}

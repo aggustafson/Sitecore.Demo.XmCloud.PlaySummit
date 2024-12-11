@@ -20,11 +20,48 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "-d4DOaN9hT",
+        "collectionId": "zR51jI-vfn",
+        "name": "Hero",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-12-10T17:28:33.156Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-12-10T18:58:48.955Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "-d4DOaN9hT",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-10T17:31:38.557Z",
+            "modifiedAt": "2024-12-10T17:31:38.557Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "NIgQ4zdtlQ",
         "collectionId": "zR51jI-vfn",
         "name": "Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
@@ -32,16 +69,28 @@
         "createdAt": "2023-05-29T11:31:03.424Z",
         "stagedAt": "2023-08-02T09:22:21.595Z",
         "publishedAt": "2023-08-02T09:22:34.204Z",
-        "modifiedAt": "2023-08-02T09:22:34.204Z",
+        "modifiedAt": "2024-12-10T17:28:22.746Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "NIgQ4zdtlQ",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-10T17:28:22.222Z",
+            "modifiedAt": "2024-12-10T17:28:22.222Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -198,6 +247,45 @@
     "createdAt": "2023-06-08T08:44:53.843Z",
     "modifiedAt": "2023-06-08T08:44:53.843Z",
     "components": [
+      {
+        "libraryId": "generated",
+        "id": "As2s3vJcAg",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Promo element",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "dfed4457d760457abec1c0dccdc44381"
+        ],
+        "createdAt": "2024-12-10T20:50:55.423Z",
+        "stagedAt": "2024-12-10T20:56:22.909Z",
+        "publishedAt": "2024-12-10T20:56:22.909Z",
+        "modifiedAt": "2024-12-10T20:56:22.909Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "As2s3vJcAg",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-10T20:51:06.507Z",
+            "modifiedAt": "2024-12-10T20:51:06.507Z"
+          }
+        ]
+      },
       {
         "libraryId": "generated",
         "id": "94f4AbLCsC",
