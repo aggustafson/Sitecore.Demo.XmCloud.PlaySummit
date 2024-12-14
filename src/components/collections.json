@@ -41,19 +41,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "-d4DOaN9hT",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-10T17:31:38.557Z",
-            "modifiedAt": "2024-12-10T17:31:38.557Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -67,7 +55,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:22:21.595Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:22:34.204Z",
         "modifiedAt": "2024-12-10T17:28:22.746Z",
         "modifiedBy": {
@@ -78,19 +66,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "NIgQ4zdtlQ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-10T17:28:22.222Z",
-            "modifiedAt": "2024-12-10T17:28:22.222Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -272,19 +248,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "As2s3vJcAg",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-10T20:51:06.507Z",
-            "modifiedAt": "2024-12-10T20:51:06.507Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",

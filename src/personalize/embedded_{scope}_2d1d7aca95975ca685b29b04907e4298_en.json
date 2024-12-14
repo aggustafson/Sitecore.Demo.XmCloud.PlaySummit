@@ -4,8 +4,8 @@
   "ref": "fbe267d6-6257-4c98-b29e-6dfb30f29cea",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-12-10T16:05:14.823Z",
-  "revision": 21,
+  "modifiedAt": "2024-12-13T14:45:10.768Z",
+  "revision": 23,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-12-10T16:05:14.958Z",
+    "modifiedAt": "2024-12-13T14:45:10.792Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -61,15 +61,15 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "a385c6fe-cb5d-42b5-b6fd-3ac7e542b3e5",
-      "name": "Audience",
+      "ref": "eeed0bee-2a0d-4986-b69a-52478dd1cb85",
+      "name": "Completed Questionnaire",
       "tasks": [
         {
           "implementation": "templateRenderTask",
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"8367051bb0fe49ba9cfbe6b44b819e04\"}"
+            "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}"
           }
         },
         {
@@ -82,7 +82,7 @@
                 "name": "Combined condition groups",
                 "description": "Combined templates within condition group for targeted experience",
                 "ruleData": {
-                  "expression": "(function () {\n    var compareValue = \"is equal to\";\n    var utmType = \"campaign\";\n    var utmValue = \"fall_Sale\";\n    var utmMultiValue = \"\";\n    var utmArray = utmMultiValue.split(',');\n    var utmMatch = false;\n    \n    \n    if (request && request.params && request.params.utm) {\n        if (request.params.utm[utmType]) {\n            if (compareValue === 'is equal to') {\n               utmMatch = request.params.utm[utmType] === utmValue; \n            } else if (compareValue === 'includes any of') {\n                for (var k = 0; k < utmArray.length; k++) {\t\n                    if (request.params.utm[utmType] === utmArray[k]) {\t\n                        utmMatch = true;\t\n                        break;\t\n                    }\n                }\n            } else if (compareValue === 'contains') {\n                utmMatch = request.params.utm[utmType].indexOf(utmValue) >= 0 ? true : false;\n            } else if (compareValue === 'starts with') {\n                utmMatch = request.params.utm[utmType].startsWith(utmValue);\n            } else if (compareValue === 'ends with') {\n                utmMatch = request.params.utm[utmType].endsWith(utmValue);\n            } else if (compareValue === 'is null') {\n                utmMatch = !request.params.utm[utmType];\n            }\n        } else if (compareValue === 'is null') {\n      \t    utmMatch = true;\n        }\n    } else if (guest.sessions && guest.sessions.length > 0) {\n        var currentSession = null;\n        for (var i = 0; i < guest.sessions.length; i++) {\n          if (guest.sessions[i].channel === \"WEB\") {\n            currentSession = guest.sessions[i];\n            break;\n          }\n        }\n        if (currentSession && currentSession.events && currentSession.events.length > 0) {\n            var firstEventIndex = currentSession.events.length - 1;\n            var firstEvent = currentSession.events[firstEventIndex];\n            var utmTypeProperty = 'utm_' + utmType;\n            if (firstEvent.arbitraryData && firstEvent.arbitraryData[utmTypeProperty]) {\n                if (compareValue === 'is equal to') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty] === utmValue; \n                } else if (compareValue === 'includes any of') {\n                    for (var m = 0; m < utmArray.length; m++) {\t\n                        if (firstEvent.arbitraryData[utmTypeProperty] === utmArray[m]) {\t\n                            utmMatch = true;\t\n                            break;\t\n                        }\n                    }\n                } else if (compareValue === 'contains') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].indexOf(utmValue) >= 0 ? true : false;\n                } else if (compareValue === 'starts with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].startsWith(utmValue);\n                } else if (compareValue === 'ends with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].endsWith(utmValue);\n                } else if (compareValue === 'is null') {\n                    utmMatch = !firstEvent.arbitraryData[utmTypeProperty];\n                }\n            } else if (compareValue === 'is null') {\n          \t    utmMatch = true;\n            }\n        }\n    }\n    \n    return utmMatch;\n})();"
+                  "expression": "(function() {\r\n  if (!guest.sessions || guest.sessions.length === 0) {\r\n    return false;\r\n  }\r\n  var session = guest.sessions[0];\r\n\r\n  if (session) {\r\n    if (session.status === 'OPEN') {\r\n      for (var j = 0; j < session.events.length; j++) {\r\n\r\n        if (session.events[j].type === 'AUDIENCE_PREFERENCE') {\r\n          var event = session.events[j].arbitraryData;\r\n          return true;\r\n        }\r\n      }\r\n    }\r\n  }\r\n\r\n  return false;\r\n})();"
                 }
               }
             ]
