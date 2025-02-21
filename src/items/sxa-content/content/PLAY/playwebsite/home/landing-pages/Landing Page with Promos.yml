@@ -107,31 +107,31 @@ Languages:
               uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}">
               <p:da
                 name="ccb" />
-            </r>
-            <r
-              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}">
-              <p:da
-                name="ccb" />
               <rls>
                 <ruleset
                   s:pet="true">
                   <rule
-                    uid="{9421F6B5-615D-4B9E-B415-357822CDB2F9}"
-                    s:name="69cd1e97856141b2a5e35a5df9f6e184">
+                    uid="{A8E1E2B1-0E7F-4A16-9CCD-5DC84D11BE26}"
+                    s:name="1802256f1b3d40088decadc7547594c6_6ec119086fa344f5bb335041e1d5e73d">
                     <conditions>
                       <condition
-                        uid="582B1BEB325D4D58827BFA1A817257D6"
+                        uid="682CE76010F74D4A8A2A2687DDA30469"
                         s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="69cd1e97856141b2a5e35a5df9f6e184" />
+                        s:VariantName="1802256f1b3d40088decadc7547594c6_6ec119086fa344f5bb335041e1d5e73d" />
                     </conditions>
                     <actions>
                       <action
-                        uid="{4BC9A2D9-47F2-40AE-85FE-16A3DDA12CE6}"
+                        uid="{3EEE69DA-0EEF-4504-9B24-540B445C5362}"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
                         s:DataSource="2fc096b2-2d75-4824-9274-4cb202d50536" />
                       <action
-                        uid="{B708B2F0-28F0-4A4B-99FF-A9DAA48B83DC}"
-                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                        uid="{5FC7E4FC-15EB-40D4-92EF-26D393986ED7}"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="caa0c742-f052-49fb-825b-a03494798db7" />
+                      <action
+                        uid="{8356D884-654E-453C-9485-5FC9249C7CC8}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="LibraryId=4TKbLnkHFjB81yu1EBIhtX&amp;ComponentName=Promo%20element&amp;ComponentLabel=Promo%20element&amp;ComponentId=As2s3vJcAg&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=HXK2Uv53vLnzOuw&amp;ComponentHTMLOverride" />
                     </actions>
                   </rule>
                   <rule
@@ -139,12 +139,17 @@ Languages:
                     s:name="Default">
                     <conditions>
                       <condition
-                        uid="4C3894E06C6B4BDD810C442A30FD09D8"
+                        uid="E2041E118FE040EA9C03141C521D7CDB"
                         s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
                     </conditions>
                   </rule>
                 </ruleset>
               </rls>
+            </r>
+            <r
+              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}">
+              <p:da
+                name="ccb" />
             </r>
             <r
               uid="{DAC31D81-CA21-4EE9-9185-906B4D093E3C}"
@@ -203,7 +208,7 @@ Languages:
       Value: Landing Page with Promos
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "76b93857-628d-41ae-a94c-a21a9cc1d959"
+      Value: "2d3c2fe7-3981-4582-9004-c3126406ff69"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.
