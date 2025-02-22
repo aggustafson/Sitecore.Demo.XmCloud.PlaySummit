@@ -248,19 +248,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "As2s3vJcAg",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-18T16:39:09.071Z",
-            "modifiedAt": "2025-02-18T16:39:09.071Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -421,7 +409,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-03T12:33:41.827Z",
         "modifiedAt": "2025-02-19T18:02:36.632Z",
         "modifiedBy": {
@@ -432,19 +420,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-19T18:02:36.062Z",
-            "modifiedAt": "2025-02-19T18:02:36.062Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
