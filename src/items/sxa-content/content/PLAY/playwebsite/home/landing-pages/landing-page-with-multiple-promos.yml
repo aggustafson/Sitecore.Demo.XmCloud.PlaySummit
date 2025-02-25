@@ -109,8 +109,70 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish" />
+            <r
+              uid="{9BA2187B-7A45-4AEC-B564-9ED773C42C41}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish" />
+            <r
+              uid="{DE374F77-9DAF-4004-98AF-D77FB1C588A0}"
+              p:after="r[@uid='{09105C4A-AA53-4BA4-B77C-7BAE78B91F1A}']"
+              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7B87E4CA1A-14C9-4D44-BD3C-898909EAB561%7D%7C%7BD6A410BB-6608-4B7A-854D-0C4CCA7CFC48%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-4/container-7" />
+            <r
+              uid="{3B745BE0-B4AF-43F8-8C85-C82339E8BFAD}"
+              p:after="r[@uid='{DE374F77-9DAF-4004-98AF-D77FB1C588A0}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B01F60C86-FA57-4566-AFBE-3A7BDC2A2777%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/container-4/container-8" />
+            <r
+              uid="{EE1A4C43-760F-4E12-8295-7075870CD800}"
+              p:after="r[@uid='{3B745BE0-B4AF-43F8-8C85-C82339E8BFAD}']"
+              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Promo%20element&amp;ComponentConfiguration&amp;LibraryId=3gJ1MyVI4RLAB7lg3hk2HX&amp;ComponentId=As2s3vJcAg&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=vNWlUok_6Pr29A8&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo%20element&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=-component%20-theme--dark-theme&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/container-4/container-9" />
+            <r
               uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}"
+              p:after="r[@uid='{EE1A4C43-760F-4E12-8295-7075870CD800}']"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7BD6A410BB-6608-4B7A-854D-0C4CCA7CFC48%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=5&amp;RenderingIdentifier" />
+            <r
+              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}"
+              p:after="r[@uid='{1802256F-1B3D-4008-8DEC-ADC7547594C6}']">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{FB2198D6-DBEF-4BAB-9242-637588ED0153}"
+                    s:name="a31e698e33f2402aa839dbb403b42b32_a84358319d244de884f194fc3ea0a45b">
+                    <conditions>
+                      <condition
+                        uid="D14CE3F6D88B4C4E8BBBD56075A3740B"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="a31e698e33f2402aa839dbb403b42b32_a84358319d244de884f194fc3ea0a45b" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{99A90781-C18E-471B-92E5-0BA7EA8C533D}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="4c269b88-9b5e-48a2-8487-92494050b312" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="3731D4BE287D47EF9C75123D1204601B"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{7FD8A9C5-A7A4-4C69-ACB6-CAD76E696252}"
               p:after="r[@uid='{A31E698E-33F2-402A-A839-DBB403B42B32}']"
@@ -130,11 +192,11 @@ Languages:
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
               s:ph="/headless-main/container-4" />
             <r
-              uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish" />
-            <r
-              uid="{9BA2187B-7A45-4AEC-B564-9ED773C42C41}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish" />
+              uid="{931850E4-7AF6-4AD1-BD52-9EEE92CC5C82}"
+              p:after="*[1=2]"
+              s:id="{89A5B1C7-993A-58EF-BE4C-C3A171979277}"
+              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/container-4" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -148,7 +210,7 @@ Languages:
       Value: Landing Page With Multiple Promos
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb593e59-a6c3-4cdb-8637-a8dc9f90d4f3"
+      Value: "d887d6ff-4217-4816-a1c8-4c46a0378db6"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.

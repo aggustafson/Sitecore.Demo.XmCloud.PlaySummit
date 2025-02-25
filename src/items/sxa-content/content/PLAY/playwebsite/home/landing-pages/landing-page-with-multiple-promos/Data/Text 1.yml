@@ -1,0 +1,13 @@
+﻿---
+ID: "ba1f28b1-77f7-4f26-afa3-c431b783c483"
+Parent: "19275e5f-af62-45ef-a029-9ad53651e927"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/landing-page-with-multiple-promos/Data/Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aaf02c4b-7807-47a1-9368-ee506e290805"

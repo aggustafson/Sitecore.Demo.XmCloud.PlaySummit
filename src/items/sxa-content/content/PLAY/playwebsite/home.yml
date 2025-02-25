@@ -172,6 +172,38 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{45828698-7ADC-4FD1-851D-3D273E126773}"
+                    s:name="56b8b055fbef4b65883fdb16f86714db">
+                    <conditions>
+                      <condition
+                        uid="A42C2F73759A41D39292B199C74126A2"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="56b8b055fbef4b65883fdb16f86714db" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{1D7BD40B-FF82-4D24-91CC-F7DDE900BA55}"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="4126A6A99EBB4E4A858CD0E2B0C3828C"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
               uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}"
               s:pt="personalizationTest"
               s:uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}">
@@ -219,7 +251,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2f751cf7-6628-47bf-89ac-26c2d18d6e43"
+      Value: "347c9a38-e5c6-4854-b527-55a0274354a8"
 - Language: "fr-CA"
   Versions:
   - Version: 1
