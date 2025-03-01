@@ -109,6 +109,69 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8E272C9F-DFF5-4BD8-8C0D-E80335D4E7F0}"
+              p:after="r[@uid='{A31E698E-33F2-402A-A839-DBB403B42B32}']"
+              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7B87E4CA1A-14C9-4D44-BD3C-898909EAB561%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{F1DE2CF7-EF49-45A2-A043-F3EAC2E76FC0}"
+              p:after="r[@uid='{8E272C9F-DFF5-4BD8-8C0D-E80335D4E7F0}']"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Promo%20Element&amp;ComponentConfiguration&amp;LibraryId=4ODE7tMuIUonScgMzev3sL&amp;ComponentId=munSRAR2jb&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=x9VB6_kaZ1YTa-e&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo%20Element&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-4">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{AD61FAB9-89DB-4D88-A7FE-6CF9B2778CB6}"
+                    s:name="55eea646bdd94df9b0b4d6b2944a4403">
+                    <conditions>
+                      <condition
+                        uid="19FACB408EBC4926B281B7EAA3F3A1D0"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="55eea646bdd94df9b0b4d6b2944a4403" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{30397BC6-D838-4815-8545-9A434E7DCB8E}"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="7B09D9EB67514BBCB7C2555FA5EFABDE"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish" />
+            <r
+              uid="{9BA2187B-7A45-4AEC-B564-9ED773C42C41}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish" />
+            <r
+              uid="{A565D30B-99AD-4C3E-8A45-B95A11F043A7}">
+              <p:da
+                name="ccb" />
+            </r>
+          </d>
+        </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
       Value: Landing Page with Additional Content
@@ -120,7 +183,7 @@ Languages:
       Value: Landing Page with Additional Content
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f187eb9d-f221-4865-9909-ea671f5237e2"
+      Value: "7cb6ffd4-1694-419f-aeb9-e60e1a1703ba"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.

@@ -1,0 +1,54 @@
+﻿---
+ID: "a651763f-7edd-4513-aea2-ad4547453d1c"
+Parent: "d683a83e-24b9-5c38-b7f7-4108b7c8c3ba"
+Template: "5954b01b-2adb-53d6-85ee-e8408d2cc2a4"
+Path: /sitecore/content/PLAY/playwebsite/Data/FullImageSection/Let us help you get started_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f531c03-8501-5776-be06-03ac387d1076"
+      Hint: callToActionLink
+      Value: |
+        <link linktype="internal" id="{F0F59E9F-A9D5-4B8A-9A11-A1A0A08FC6C9}" anchor="" querystring="" target="" class="" text="click here" title=""/>
+    - ID: "52db75bc-b548-42bf-8fff-7ed04af8cb58"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="{82FE5E2A-CB16-4235-BBD1-2D89955A0EC1}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebb61b7f-9d3f-4854-b4c9-b319aa6d9d83"
+    - ID: "a41c61bb-5abb-5773-9870-c06f637dd22c"
+      Hint: content
+      Value: "So many choices can be overwhelming. Whether you're a beginner or expert, our quick three-step questionnaire will get you moving."
+    - ID: "e93c0025-7f3b-5484-ad56-198d8c5f9c22"
+      Hint: title
+      Value: Let us help you get started
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f531c03-8501-5776-be06-03ac387d1076"
+      Hint: callToActionLink
+      Value: |
+        <link text="Start here" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F0F59E9F-A9D5-4B8A-9A11-A1A0A08FC6C9}" />
+    - ID: "52db75bc-b548-42bf-8fff-7ed04af8cb58"
+      Hint: backgroundImage
+      Value: |
+        <image mediaid="{82FE5E2A-CB16-4235-BBD1-2D89955A0EC1}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5caa7be-c625-4175-99fe-9b20af5c1e78"
+    - ID: "a41c61bb-5abb-5773-9870-c06f637dd22c"
+      Hint: content
+      Value: "So many choices can be overwhelming. Whether you're a beginner or expert, our quick three-step questionnaire will get you moving."
+    - ID: "e93c0025-7f3b-5484-ad56-198d8c5f9c22"
+      Hint: title
+      Value: Let us help you get started

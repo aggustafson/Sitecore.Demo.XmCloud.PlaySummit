@@ -83,8 +83,15 @@
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": null,
         "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2025-02-25T16:47:40.359Z",
-        "modifiedBy": {},
+        "modifiedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
         "bundles": []
       },
       {
@@ -119,9 +126,47 @@
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
-    "orderIdx": null,
+    "orderIdx": "",
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
-    "components": []
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "munSRAR2jb",
+        "collectionId": "default",
+        "name": "Promo Element",
+        "description": "",
+        "status": "staged",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2025-02-28T17:46:54.12Z",
+        "stagedAt": "2025-02-28T17:48:37.418Z",
+        "publishedAt": null,
+        "modifiedAt": "2025-02-28T17:48:37.418Z",
+        "modifiedBy": {
+          "id": "62eab1d8f7252c66e19976a9",
+          "name": "Angela Gustafson",
+          "email": "angela.gustafson@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/abd82478049930ef8a2071a868cd7090?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "givenName": "Angela",
+          "familyName": "Gustafson"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "munSRAR2jb",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-02-28T17:47:02.573Z",
+            "modifiedAt": "2025-02-28T17:47:02.573Z"
+          }
+        ]
+      }
+    ]
   }
 ]
