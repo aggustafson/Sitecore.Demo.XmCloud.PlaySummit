@@ -153,19 +153,7 @@
           "givenName": "Angela",
           "familyName": "Gustafson"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "munSRAR2jb",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-28T17:47:02.573Z",
-            "modifiedAt": "2025-02-28T17:47:02.573Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

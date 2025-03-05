@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/6b2e09e1-6951-4c07-9e1c-0a9c125e45d3",
   "ref": "6b2e09e1-6951-4c07-9e1c-0a9c125e45d3",
   "name": "embedded_{scope}_511d8f7bc8794abb927b808bf97e64af_en",
-  "modifiedByRef": "auth0|62eab1d8f7252c66e19976a9",
-  "modifiedAt": "2025-02-28T17:50:23.138Z",
-  "revision": 2,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-03-04T21:50:44.735Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_511d8f7bc8794abb927b808bf97e64af_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-02-28T17:50:23.277Z",
+    "modifiedAt": "2025-03-04T21:50:44.762Z",
     "splits": [
       {
         "template": "{\"variantId\": \"55eea646bdd94df9b0b4d6b2944a4403\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "d8c84643-f0f3-40ce-9641-0aa03a8f0d64",
+      "ref": "bf27e11c-5e3c-41f6-abb4-63f50c2b1d79",
       "name": "Promo element",
       "tasks": [
         {

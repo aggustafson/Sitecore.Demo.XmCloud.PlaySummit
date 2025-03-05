@@ -146,7 +146,7 @@ Languages:
               uid="{22B1634F-F395-47B0-BA2A-67EB291929E8}"
               p:after="r[@uid='{C93BE77F-4656-4057-A905-5FE9FDDF2733}']"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Promo element&amp;ComponentConfiguration&amp;LibraryId=4ODE7tMuIUonScgMzev3sL&amp;ComponentId=As2s3vJcAg&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=izdoJGzVilcDgUV&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo element&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:par="ComponentName=Promo element&amp;ComponentConfiguration&amp;LibraryId=1jonS6325m80KlWAZlIg4r&amp;ComponentId=As2s3vJcAg&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=izdoJGzVilcDgUV&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo element&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
               s:ph="/headless-main/container-4" />
             <r
               uid="{953F9DA8-880F-4CA4-B239-EE1471C00716}"
@@ -167,7 +167,7 @@ Languages:
       Value: Landing Page With Promo
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7c0d1f46-4b7f-4dea-ac3e-20d095eca302"
+      Value: "761b2523-64b8-48d7-80a0-d5f1c1be7eb7"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
